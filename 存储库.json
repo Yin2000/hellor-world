@@ -1,0 +1,30 @@
+{
+  "name": "GITHUB123",
+  "summary": "Provided links and based on github.com",
+  "list": [
+    { "name": "热度书院",
+      "url": "http://m.rdshu.com/",
+      "category": 1,
+      "rank": 0,
+      "auth": false,
+      "version": 100,
+    },
+    {
+      "name": "磨铁中文网",
+      "url": "http://m.motie.com",
+      "category": 1,
+      "rank": 12,
+      "auth": true,
+      "version": 100,
+      "beta": true
+    },
+    {
+      "name": "动漫之家",
+      "url": "http://v3api.dmzj.com",
+      "category": 2,
+      "rank": 0,
+      "auth": false,
+      "version": 100
+    }
+  ]
+}
